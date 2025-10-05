@@ -1,6 +1,6 @@
 # TalentSphere: Headhunter Dashboard
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/adrianosalves/generated-app-20251005-132127)
 
 An elegant and powerful dashboard for headhunters to manage vacancies, candidates, and recruitment pipelines with exceptional visual clarity.
 
@@ -88,4 +88,4 @@ This application is designed to be deployed to Cloudflare's global network.
 
 Alternatively, you can deploy your own instance with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/adrianosalves/generated-app-20251005-132127)
